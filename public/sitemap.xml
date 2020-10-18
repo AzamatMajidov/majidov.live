@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>your_site_url_address/</loc>
+    <loc>https://majidov-live.web.app/</loc>
     <lastmod>2020-10-19T02:48:25+05:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/posts/my-first-post/</loc>
+    <loc>https://majidov-live.web.app/posts/my-first-post/</loc>
     <lastmod>2020-10-19T02:48:25+05:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/posts/</loc>
+    <loc>https://majidov-live.web.app/posts/</loc>
     <lastmod>2020-10-19T02:48:25+05:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/categories/</loc>
+    <loc>https://majidov-live.web.app/categories/</loc>
   </url>
   
   <url>
-    <loc>your_site_url_address/tags/</loc>
+    <loc>https://majidov-live.web.app/tags/</loc>
   </url>
   
 </urlset>
