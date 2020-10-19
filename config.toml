@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://majidov-live.web.app/"
+baseurl = "https://majidov.live/"
 languageCode = "en"
 title = "Azamat's personal blog"
 theme = "hugo-theme-cactus-plus"

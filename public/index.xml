@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azamat&#39;s personal blog</title>
-    <link>https://majidov-live.web.app/</link>
+    <link>https://majidov.live/</link>
     <description>Recent content on Azamat&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2020 02:48:25 +0500</lastBuildDate><atom:link href="https://majidov-live.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 02:48:25 +0500</lastBuildDate><atom:link href="https://majidov.live/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://majidov-live.web.app/posts/my-first-post/</link>
+      <link>https://majidov.live/posts/my-first-post/</link>
       <pubDate>Mon, 19 Oct 2020 02:48:25 +0500</pubDate>
       
-      <guid>https://majidov-live.web.app/posts/my-first-post/</guid>
+      <guid>https://majidov.live/posts/my-first-post/</guid>
       <description></description>
     </item>
     

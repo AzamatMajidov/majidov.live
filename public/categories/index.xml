@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Azamat&#39;s personal blog</title>
-    <link>https://majidov-live.web.app/categories/</link>
+    <link>https://majidov.live/categories/</link>
     <description>Recent content in Categories on Azamat&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://majidov-live.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://majidov.live/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
